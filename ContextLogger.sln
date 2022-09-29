@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextLogger", "ContextLogger\ContextLogger.csproj", "{4E5878A7-DD44-4C40-9582-9351A027D958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5878A7-DD44-4C40-9582-9351A027D958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5878A7-DD44-4C40-9582-9351A027D958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5878A7-DD44-4C40-9582-9351A027D958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5878A7-DD44-4C40-9582-9351A027D958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB482473-B0EB-49B7-82F7-1F69797CD679}
+	EndGlobalSection
+EndGlobal
